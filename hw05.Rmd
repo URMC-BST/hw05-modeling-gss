@@ -1,0 +1,16 @@
+---
+title: "HW 05 - Modeling the GSS"
+author: "Insert your name here"
+date: "Insert date here"
+output: github_document
+---
+
+## Load packages and data
+
+```{r load-packages, message = FALSE}
+library(tidyverse)
+library(dsbox)
+library(tidymodels)
+```
+
+### Ex 1
